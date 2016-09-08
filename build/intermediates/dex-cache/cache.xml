@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/appcreator14/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_0328d7602581b0fd7ff9cb1f3b506c84e1e02b79/classes.dex" />
+    </item>
+    <item
+        jar="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_2ddccbaa6759c07620af32642177a90ab5d54dd1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_79e622053379fe911221a36c1cdbd4c5e4060b30/classes.dex" />
+    </item>
+    <item
+        jar="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.0.0_b678f711155589385ba896e73741f42e52747353/classes.dex" />
+    </item>
+    <item
+        jar="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_88a9301be0465fa548cafaf870a410b75dc16978/classes.dex" />
+    </item>
+    <item
+        jar="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ec705f84d64e5a8b6271243519c975eb94a8ee38">
+        <dex dex="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_12fa4dbe93d690853795e6c37e4cd7276ab7d4ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_3e0b41776366662c1109b844a4c6fc47ae06fe63/classes.dex" />
+    </item>
+    <item
+        jar="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_3490bec79e495f48a09b6f5c57ef6d0edf6cda24/classes.dex" />
+    </item>
+    <item
+        jar="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_802ba0689223651d928b92a75ccfb29e231d1690/classes.dex" />
+    </item>
+    <item
+        jar="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_e05e9cd3e346fccb5f440700b42da23144a161fa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="82b8946527d38c66d5b7850e277d6159af1290e8">
+        <dex dex="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_09a30e50f770d2545d7cdc692e93a748ebb01523/classes.dex" />
+    </item>
+    <item
+        jar="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/appcreator14/Downloads/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_e2943a5003c3132cf562e0c582ae0a9799664b3d/classes.dex" />
+    </item>
+
+</items>
